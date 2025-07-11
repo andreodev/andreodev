@@ -17,8 +17,8 @@ Sou um desenvolvedor com foco em front-end moderno e experiências digitais que 
 
 💡 Acredito que o código é tão importante quanto o design — cada detalhe conta.
 
-🛠️ **Tech Stack principal:** React, TailwindCSS, TypeScript, Framer Motion  
-🧩 **Também atuo com:** Node.js, Express, MySQL, Electron e SQLite
+🛠️ **Tech Stack principal:** React, React Native, Next.js, TailwindCSS, TypeScript.
+🧩 **Também atuo com:** Node.js, Java, Express, MySQL, SQLite e MongoDB.
 
 🎨 Gosto de criar produtos com **movimento, clareza visual e estrutura sólida**. Organizar o caos é parte do que me move como dev.
 
