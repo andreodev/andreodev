@@ -1,8 +1,6 @@
 <img src="https://i.pinimg.com/736x/3f/d0/1c/3fd01c9667cd5adff625ddd0633f6c84.jpg" style="margin:10px;" width="100%" alt="ilustração de um computador" > <p align="left"> <!-- Redes sociais -->
 
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andreo-henrique/)
 
 </p> <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="80" height="80" align="right">
 👋 Oi! Eu sou o Andreo Henrique
