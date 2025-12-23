@@ -38,7 +38,7 @@ class AboutMe extends Developer {
 
 class TechStack extends Developer {
   frontend = ['React', 'TailwindCSS', 'Framer Motion', 'TypeScript', 'React Native', 'Next.js'];
-  backend = ['Node.js', 'Express', 'MySQL', 'SQLite', 'Prisma'];
+  backend = ['Node.js', 'Express', 'MySQL', 'SQLite', 'Prisma', 'Nest'];
   desktop = ['Electron'];
   outhers = ['Git', 'Figma', 'Vite', 'Zod', 'Axios', 'React Router', 'JWT'];
   style = ['Dark mode lover ☕', 'Componente reutilizável ❤️', 'Performance-first'];
