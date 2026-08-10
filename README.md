@@ -10,7 +10,7 @@ Já trabalhei com **fintech, pagamentos, Pix, marketplaces, dashboards e SaaS mu
 * 🤖 Experiência com **IA, LLMs, automações e integrações com IA**
 * 🚀 Gosto de transformar regras de negócio complexas em soluções simples e fáceis de manter
 * 📍 **Manaus, Amazonas**
-* 💼 Aberto a oportunidades como **Frontend, Full Stack e Software Engineer**
+* 💼 Aberto a oportunidades como **Frontend, Full Stack e Backend**
 
 ## 🎈 Linguagens, Frameworks & Ferramentas
 
