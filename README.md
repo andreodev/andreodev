@@ -1,70 +1,44 @@
-# Andreo Henrique
+## 💡 Sobre mim
 
-**Full Stack Software Engineer** · Manaus, AM · Brasil
+Sou **Full Stack Software Engineer** com experiência no desenvolvimento de produtos web, atuando do frontend às APIs, banco de dados e integrações.
 
-Desenvolvedor focado na construção de **produtos web de ponta a ponta**, atuando do frontend às APIs, banco de dados, integrações e deploy.
+Já trabalhei com **fintech, pagamentos, Pix, marketplaces, dashboards e SaaS multi-tenant**, participando tanto da implementação quanto de decisões técnicas e evolução dos produtos.
 
-Experiência com **fintech, pagamentos, Pix, marketplaces, dashboards e SaaS multi-tenant**, trabalhando em produtos reais e regras de negócio complexas.
+* 💻 Desenvolvimento com **React, Next.js, TypeScript, Node.js e Go**
+* ⚙️ Experiência com **APIs, PostgreSQL, Redis, Docker e WebSockets**
+* 🏗️ Interesse em **arquitetura de software, performance e sistemas escaláveis**
+* 🤖 Experiência com **IA, LLMs, automações e integrações com IA**
+* 🚀 Gosto de transformar regras de negócio complexas em soluções simples e fáceis de manter
+* 📍 **Manaus, Amazonas**
+* 💼 Aberto a oportunidades como **Frontend, Full Stack e Software Engineer**
 
-## Tech Stack
+## 🎈 Linguagens, Frameworks & Ferramentas
 
-```ts
-const stack = {
-  frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-  backend: ["Node.js", "NestJS", "Go", "REST APIs"],
-  data: ["PostgreSQL", "MongoDB", "Redis"],
-  infra: ["Docker", "Git", "CI/CD"],
-};
-```
+**Frontend**
+React · Next.js · TypeScript · JavaScript · Tailwind CSS
 
-## Experiência
+**Backend**
+Node.js · NestJS · Go · REST APIs · WebSockets
 
-### Wite Group — Full Stack Software Developer
+**Dados & Infraestrutura**
+PostgreSQL · MongoDB · Redis · Docker · Git · CI/CD
 
-Desenvolvimento e evolução de uma **plataforma fintech**, atuando em:
+**Experiência com produtos**
+Fintech · Pix · Gateways de Pagamento · SaaS · Multi-tenant · Marketplaces · IA
 
-* Gateway de pagamentos e Pix
-* Checkout e links de pagamento
-* Marketplace
-* Dashboards financeiros
-* Autenticação e segurança
-* Arquitetura multi-tenant
-* APIs e integrações
+## 💼 Experiência
 
-**Stack:** React · Next.js · TypeScript · Node.js · NestJS · PostgreSQL · Redis
+**Wite Group — Full Stack Software Developer**
+Desenvolvimento e evolução de uma plataforma fintech com pagamentos, Pix, checkout, marketplace, dashboards financeiros e arquitetura multi-tenant.
 
----
+**InovStar — Full Stack Developer**
+Desenvolvimento de aplicações web, APIs e integrações com sistemas de atendimento via WhatsApp.
 
-### InovStar Atendimento — Full Stack Developer
+**Planno Finanças — Full Stack Developer Intern**
+Desenvolvimento de features, integrações REST, debugging e refatoração de aplicações.
 
-Desenvolvimento de aplicações web, APIs e integrações, incluindo **sistema de atendimento integrado ao WhatsApp**.
+## 📫 Contato
 
-**Stack:** React · Node.js · TypeScript · MongoDB · WhatsApp API
-
----
-
-### Planno Finanças — Full Stack Developer Intern
-
-Desenvolvimento de features, integrações REST, correção de bugs e refatoração de aplicações web.
-
-**Stack:** Vue.js · React · JavaScript · REST APIs
-
-## O que eu entrego
-
-```ts
-const engineering = [
-  "features de ponta a ponta",
-  "APIs e integrações",
-  "arquitetura e modelagem de regras de negócio",
-  "interfaces e dashboards",
-  "debugging e resolução de problemas",
-  "refatoração e performance",
-];
-```
-
-## Contato
-
-* GitHub: https://github.com/andreodev
-* LinkedIn: https://www.linkedin.com/in/andreo-henrique/
-* Email: [developerandreo@gmail.com](mailto:developerandreo@gmail.com)
-
+* [LinkedIn](https://www.linkedin.com/in/andreo-henrique/)
+* [Portfólio](https://andreodev.vercel.app)
+* [E-mail](mailto:developerandreo@gmail.com)
