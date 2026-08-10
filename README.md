@@ -68,5 +68,3 @@ const engineering = [
 * LinkedIn: https://www.linkedin.com/in/andreo-henrique/
 * Email: [developerandreo@gmail.com](mailto:developerandreo@gmail.com)
 
-```
-```
