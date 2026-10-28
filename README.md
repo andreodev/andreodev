@@ -1,44 +1,43 @@
-## 💡 Sobre mim
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="./assets/hero-mobile.png" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero.png" />
+    <source media="(max-width: 600px)" srcset="./assets/hero-mobile.gif" />
+    <img src="./assets/hero.gif" width="1200" alt="Andreo Henrique · Full Stack Software Engineer · Manaus, Brasil. Clareza no código. Impacto no produto." />
+  </picture>
+</p>
 
-Sou **Full Stack Software Engineer** com experiência no desenvolvimento de produtos web, atuando do frontend às APIs, banco de dados e integrações.
+<p align="center">
+  <a href="https://andreodev.com.br"><img src="./assets/link-portfolio.svg" height="40" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/andreo-henrique/"><img src="./assets/link-linkedin.svg" height="40" alt="LinkedIn" /></a>
+  <a href="mailto:developerandreo@gmail.com"><img src="./assets/link-email.svg" height="40" alt="Vamos conversar" /></a>
+</p>
 
-Já trabalhei com **fintech, pagamentos, Pix, marketplaces, dashboards e SaaS multi-tenant**, participando tanto da implementação quanto de decisões técnicas e evolução dos produtos.
+### Transformo regras complexas em produtos que funcionam.
 
-* 💻 Desenvolvimento com **React, Next.js, TypeScript, Node.js e Go**
-* ⚙️ Experiência com **APIs, PostgreSQL, Redis, Docker e WebSockets**
-* 🏗️ Interesse em **arquitetura de software, performance e sistemas escaláveis**
-* 🤖 Experiência com **IA, LLMs, automações e integrações com IA**
-* 🚀 Gosto de transformar regras de negócio complexas em soluções simples e fáceis de manter
-* 📍 **Manaus, Amazonas**
-* 💼 Aberto a oportunidades como **Frontend, Full Stack e Backend**
+Desenvolvo produtos web de ponta a ponta: interfaces, APIs, dados e integrações. Experiência com fintech, Pix, SaaS multi-tenant e automações com IA.
 
-## 🎈 Linguagens, Frameworks & Ferramentas
+**Por onde passei** &nbsp; Wite Group · InovStar · Planno Finanças<br />
+**Busco oportunidades** &nbsp; Frontend · Full Stack · Backend
 
-**Frontend**
-React · Next.js · TypeScript · JavaScript · Tailwind CSS
+### Stack principal
 
-**Backend**
-Node.js · NestJS · Go · REST APIs · WebSockets
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/stack-mobile.svg" />
+  <img src="./assets/stack.svg" width="1200" alt="TypeScript, React, Next.js, Node.js, Go, NestJS, PostgreSQL, Redis, Docker, Tailwind CSS" />
+</picture>
 
-**Dados & Infraestrutura**
-PostgreSQL · MongoDB · Redis · Docker · Git · CI/CD
+### Do produto ao código
 
-**Experiência com produtos**
-Fintech · Pix · Gateways de Pagamento · SaaS · Multi-tenant · Marketplaces · IA
+<p>
+  <a href="https://www.ofixy.com.br/"><img src="./assets/project-ofixy.svg" width="410" alt="Ofixy — Gestão de oficinas: ordens de serviço, estoque e financeiro em um só produto. Next.js · PostgreSQL · Docker" /></a>
+  <a href="https://github.com/andreodev/sentinel"><img src="./assets/project-sentinel.svg" width="410" alt="Sentinel — Eventos de pagamento, idempotência e análise de risco com regras auditáveis. Go · PostgreSQL · Redis · Docker" /></a>
+</p>
 
-## 💼 Experiência
+<p align="center">
+  <sub>Explore também &nbsp; <a href="https://github.com/andreodev/FoodBox" title="React Native e Firebase">FoodBox</a> &nbsp;·&nbsp; <a href="https://github.com/andreodev/Takusan" title="React e GraphQL">Takusan</a> &nbsp;·&nbsp; <a href="https://github.com/andreodev/rest-go" title="Go">rest-go</a> &nbsp;·&nbsp; <a href="https://github.com/andreodev/port-main" title="React e Tailwind CSS">port-main</a></sub>
+</p>
 
-**Wite Group — Full Stack Software Developer**
-Desenvolvimento e evolução de uma plataforma fintech com pagamentos, Pix, checkout, marketplace, dashboards financeiros e arquitetura multi-tenant.
-
-**InovStar — Full Stack Developer**
-Desenvolvimento de aplicações web, APIs e integrações com sistemas de atendimento via WhatsApp.
-
-**Planno Finanças — Full Stack Developer Intern**
-Desenvolvimento de features, integrações REST, debugging e refatoração de aplicações.
-
-## 📫 Contato
-
-* [LinkedIn](https://www.linkedin.com/in/andreo-henrique/)
-* [Portfólio](https://andreodev.vercel.app)
-* [E-mail](mailto:developerandreo@gmail.com)
+<p align="center">
+  <sub>Feito em Manaus. Pensado para ir além. &nbsp;↗&nbsp; <a href="https://andreodev.com.br">Conheça meu trabalho</a></sub>
+</p>

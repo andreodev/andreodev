@@ -1,0 +1,131 @@
+[
+  {
+    "kind": "animation",
+    "credit": "NASA’s Goddard Space Flight Center / Jeremy Schnittman",
+    "page": "https://svs.gsfc.nasa.gov/13326/",
+    "file": "black-hole.gif",
+    "url": "https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/BH_AccretionDisk_Sim_Stationary_WebSize.gif",
+    "bytes": 6911590,
+    "sha256": "3b8d7ab5a90c9bea1acb8c0a91e2943d60a5efda6e871da8cee865b77f7c272c"
+  },
+  {
+    "kind": "font",
+    "name": "space-grotesk.ttf",
+    "file": "fonts/space-grotesk.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/spacegrotesk/SpaceGrotesk%5Bwght%5D.ttf",
+    "bytes": 136676,
+    "sha256": "acad6de1fc93436f5c0f1f4137751ef04f1aea3063e7036535970ffcfbd79f72"
+  },
+  {
+    "kind": "font",
+    "name": "plex-mono.ttf",
+    "file": "fonts/plex-mono.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/ibmplexmono/IBMPlexMono-Regular.ttf",
+    "bytes": 135580,
+    "sha256": "6a3412f058c7d8dfd9170c41e85ade48e5156ecb89356110ca57a0a27734af46"
+  },
+  {
+    "kind": "font",
+    "name": "space-grotesk-OFL.txt",
+    "file": "fonts/space-grotesk-OFL.txt",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/spacegrotesk/OFL.txt",
+    "bytes": 4495,
+    "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+  },
+  {
+    "kind": "font",
+    "name": "plex-mono-OFL.txt",
+    "file": "fonts/plex-mono-OFL.txt",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/ibmplexmono/OFL.txt",
+    "bytes": 4456,
+    "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+  },
+  {
+    "kind": "icon",
+    "name": "typescript",
+    "file": "icons/typescript.svg",
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@16.36.0/icons/typescript.svg",
+    "bytes": 1294,
+    "sha256": "7f023e8d1e767370306ec9437d2de5d5af97491d6208dd7799a3808a7c10a36a"
+  },
+  {
+    "kind": "icon",
+    "name": "react",
+    "file": "icons/react.svg",
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@16.36.0/icons/react.svg",
+    "bytes": 2926,
+    "sha256": "ab9136a1a4a8be72ac6743e1bdd1912d878bd68d57787ea7a6c6838e3b23c01c"
+  },
+  {
+    "kind": "icon",
+    "name": "nextdotjs",
+    "file": "icons/nextdotjs.svg",
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@16.36.0/icons/nextdotjs.svg",
+    "bytes": 322,
+    "sha256": "593e14da3ddb65be4c8fa6a178f2f48a01a8bd39ea384f679cd7182b520da502"
+  },
+  {
+    "kind": "icon",
+    "name": "nodedotjs",
+    "file": "icons/nodedotjs.svg",
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@16.36.0/icons/nodedotjs.svg",
+    "bytes": 1608,
+    "sha256": "021851b758cde7d3e04819c3ac02047d0ff281c712e8387afa0c76a6dac6db6c"
+  },
+  {
+    "kind": "icon",
+    "name": "go",
+    "file": "icons/go.svg",
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@16.36.0/icons/go.svg",
+    "bytes": 1636,
+    "sha256": "36a745fe15584bf138d02ae6abcbdd155bc1cd4f4976634ad34861b2059db559"
+  },
+  {
+    "kind": "icon",
+    "name": "nestjs",
+    "file": "icons/nestjs.svg",
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@16.36.0/icons/nestjs.svg",
+    "bytes": 6317,
+    "sha256": "903a08f64eedd64fb3f65fb733628353d3d42f9e7525ca9d989936f3e38322ef"
+  },
+  {
+    "kind": "icon",
+    "name": "postgresql",
+    "file": "icons/postgresql.svg",
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@16.36.0/icons/postgresql.svg",
+    "bytes": 5205,
+    "sha256": "c8ccadbd88c9312c2ad3734c4861b31d3485ce179ee91d64793143f83cfa745c"
+  },
+  {
+    "kind": "icon",
+    "name": "redis",
+    "file": "icons/redis.svg",
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@16.36.0/icons/redis.svg",
+    "bytes": 738,
+    "sha256": "428b86deb14c8bdacdcdf75987fe454f367bcd078a7e4ae3f84de29aa5bdf136"
+  },
+  {
+    "kind": "icon",
+    "name": "docker",
+    "file": "icons/docker.svg",
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@16.36.0/icons/docker.svg",
+    "bytes": 1765,
+    "sha256": "65571291c261ef869c31540a38f3ca0f0ee3bb73f179c172211c8860f19a6359"
+  },
+  {
+    "kind": "icon",
+    "name": "tailwindcss",
+    "file": "icons/tailwindcss.svg",
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@16.36.0/icons/tailwindcss.svg",
+    "bytes": 602,
+    "sha256": "5d4ede3c95da824f543c6eefbe7c78b45ecce6796f6633de196dd712a7841140"
+  },
+  {
+    "kind": "license",
+    "name": "Simple Icons",
+    "file": "simple-icons-LICENSE.md",
+    "url": "https://cdn.jsdelivr.net/npm/simple-icons@16.36.0/LICENSE.md",
+    "bytes": 6569,
+    "sha256": "9046848b63a5c92bff14e4accca80bd987e0623b74adf9226ce5198d312b79d5"
+  }
+]
