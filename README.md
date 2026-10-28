@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://andreodev.com.br"><img src="./assets/link-portfolio.svg" height="40" alt="Portfólio" /></a>
+  <a href="https://andreodev.vercel.app"><img src="./assets/link-portfolio.svg" height="40" alt="Portfólio" /></a>
   <a href="https://www.linkedin.com/in/andreo-henrique/"><img src="./assets/link-linkedin.svg" height="40" alt="LinkedIn" /></a>
   <a href="mailto:developerandreo@gmail.com"><img src="./assets/link-email.svg" height="40" alt="Vamos conversar" /></a>
 </p>
@@ -39,5 +39,5 @@ Desenvolvo produtos web de ponta a ponta: interfaces, APIs, dados e integraçõe
 </p>
 
 <p align="center">
-  <sub>Feito em Manaus. Pensado para ir além. &nbsp;↗&nbsp; <a href="https://andreodev.com.br">Conheça meu trabalho</a></sub>
+  <sub>Feito em Manaus. Pensado para ir além. &nbsp;↗&nbsp; <a href="https://andreodev.vercel.app/">Conheça meu trabalho</a></sub>
 </p>
